@@ -1,0 +1,14 @@
+{
+    "name": "BABYFEG",
+    "website": "https://babyfeg.io/",
+    "telegram": "https://t.me/baby_feg",
+    "twitter": "https://twitter.com/baby_feg",
+    "description": "Hold and earn FEG.",
+    "explorer": "https://bscscan.com/token/0x5e8f1ac3930461a467c3a4fa349d7cfa6f211c8f",
+    "type": "BEP20",
+    "symbol": "BOG",
+    "decimals": 18,
+    "slippage": 16,
+    "status": "active",
+    "id": "0x5e8F1Ac3930461A467C3a4fa349D7cFa6f211c8F"
+}
